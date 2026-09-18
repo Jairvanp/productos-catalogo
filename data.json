@@ -11,12 +11,24 @@
   },
   "products": [
     {
-      "id": 55,
-      "name": "Toalla de cocina multiuso nuble blanca",
-      "category": "Limpieza y hogar",
-      "price": 10.0,
-      "description": "Toalla de cocina multiuso nuble blanca",
-      "image": "imagenes_catalogo/01-toalla-de-cocina-multiuso-nuble-blanca.png"
+      "id": 1,
+      "name": "Cartones de huevos extra grande",
+      "category": "Alimentos para la cocina",
+      "price": 37.0,
+      "description": "Cartones de huevos extra grande",
+      "image": "imagenes_catalogo/55-cartones-de-huevos-extra-grande.png",
+      "priceOptions": [
+        {
+          "label": "Precio cartón",
+          "value": 37.0,
+          "display": "Precio cartón: 37.00"
+        },
+        {
+          "label": "Precio medio cartón",
+          "value": 20.0,
+          "display": "Precio medio cartón: 20"
+        }
+      ]
     },
     {
       "id": 2,
@@ -587,26 +599,14 @@
       "price": 6.5,
       "description": "Pasta ina codito mediano 200g",
       "image": "imagenes_catalogo/54-pasta-ina-codito-mediano-200g.png"
-    },
+    },    
     {
       "id": 1,
-      "name": "Cartones de huevos extra grande",
-      "category": "Alimentos para la cocina",
-      "price": 37.0,
-      "description": "Cartones de huevos extra grande",
-      "image": "imagenes_catalogo/55-cartones-de-huevos-extra-grande.png",
-      "priceOptions": [
-        {
-          "label": "Precio cartón",
-          "value": 37.0,
-          "display": "Precio cartón: 37.00"
-        },
-        {
-          "label": "Precio medio cartón",
-          "value": 20.0,
-          "display": "Precio medio cartón: 20"
-        }
-      ]
+      "name": "Toalla de cocina multiuso nuble blanca",
+      "category": "Limpieza y hogar",
+      "price": 10.0,
+      "description": "Toalla de cocina multiuso nuble blanca",
+      "image": "imagenes_catalogo/01-toalla-de-cocina-multiuso-nuble-blanca.png"
     },
     {
       "id": 56,
