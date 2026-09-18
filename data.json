@@ -3,7 +3,7 @@
     "name": "Catálogo de productos",
     "eyebrow": "Catálogo",
     "headline": "Productos disponibles",
-    "description": "",
+    "description": "Si no encuentra el producto en el listado, puede escribirnos a nuestro WhatsApp para más información.",
     "currency": "GTQ",
     "locale": "es-GT",
     "whatsapp": "+50238633017",
@@ -11,7 +11,7 @@
   },
   "products": [
     {
-      "id": 1,
+      "id": 55,
       "name": "Toalla de cocina multiuso nuble blanca",
       "category": "Limpieza y hogar",
       "price": 10.0,
@@ -589,7 +589,7 @@
       "image": "imagenes_catalogo/54-pasta-ina-codito-mediano-200g.png"
     },
     {
-      "id": 55,
+      "id": 1,
       "name": "Cartones de huevos extra grande",
       "category": "Alimentos para la cocina",
       "price": 37.0,
