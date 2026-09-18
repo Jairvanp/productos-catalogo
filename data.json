@@ -3,10 +3,10 @@
     "name": "Catálogo de productos",
     "eyebrow": "Catálogo",
     "headline": "Productos disponibles",
-    "description": "Productos y precios del catálogo de Word.",
+    "description": "",
     "currency": "GTQ",
     "locale": "es-GT",
-    "whatsapp": "",
+    "whatsapp": "+50238633017",
     "whatsappMessage": "Hola, me gustaría recibir información sobre sus productos."
   },
   "products": [
