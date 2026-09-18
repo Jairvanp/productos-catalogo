@@ -1,6 +1,6 @@
 {
   "store": {
-    "name": "Catálogo de productos",
+    "name": "Tiendita Oscar",
     "eyebrow": "Catálogo",
     "headline": "Productos disponibles",
     "description": "Si no encuentra el producto en el listado, puede escribirnos a nuestro WhatsApp para más información.",
@@ -15,7 +15,7 @@
       "name": "Cartones de huevos extra grande",
       "category": "Alimentos para la cocina",
       "price": 37.0,
-      "description": "Cartones de huevos extra grande",
+      "description": "Cartones de huevos extra grande, Precio medio cartón: 20",
       "image": "imagenes_catalogo/55-cartones-de-huevos-extra-grande.png",
       "priceOptions": [
         {
