@@ -1,0 +1,724 @@
+{
+  "store": {
+    "name": "Catálogo de productos",
+    "eyebrow": "Catálogo",
+    "headline": "Productos disponibles",
+    "description": "Productos y precios del catálogo de Word.",
+    "currency": "GTQ",
+    "locale": "es-GT",
+    "whatsapp": "",
+    "whatsappMessage": "Hola, me gustaría recibir información sobre sus productos."
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Toalla de cocina multiuso nuble blanca",
+      "category": "Limpieza y hogar",
+      "price": 10.0,
+      "description": "Toalla de cocina multiuso nuble blanca",
+      "image": "imagenes_catalogo/01-toalla-de-cocina-multiuso-nuble-blanca.png"
+    },
+    {
+      "id": 2,
+      "name": "Servilleta CHIPER 100g",
+      "category": "Limpieza y hogar",
+      "price": 5.0,
+      "description": "Servilleta CHIPER 100g",
+      "image": "imagenes_catalogo/02-servilleta-chiper-100g.png"
+    },
+    {
+      "id": 3,
+      "name": "Toallas Humedas BELUX LUCCA paguete 72u",
+      "category": "Limpieza y hogar",
+      "price": 10.0,
+      "description": "Toallas Humedas BELUX LUCCA paguete 72u",
+      "image": "imagenes_catalogo/03-toallas-humedas-belux-lucca-paguete-72u.png"
+    },
+    {
+      "id": 4,
+      "name": "Lavaplato KLINPIAX Limon 1Kg",
+      "category": "Limpieza y hogar",
+      "price": 12.0,
+      "description": "Lavaplato KLINPIAX Limon 1Kg",
+      "image": "imagenes_catalogo/04-lavaplato-klinpiax-limon-1kg.png"
+    },
+    {
+      "id": 5,
+      "name": "Colgate75 ml",
+      "category": "Limpieza y hogar",
+      "price": 10.0,
+      "description": "Colgate75 ml",
+      "image": "imagenes_catalogo/05-colgate75-ml.png"
+    },
+    {
+      "id": 6,
+      "name": "Vaso platico REYMA 10 onzas 25 unidades",
+      "category": "Limpieza y hogar",
+      "price": 10.0,
+      "description": "Vaso platico REYMA 10 onzas 25 unidades",
+      "image": "imagenes_catalogo/06-vaso-platico-reyma-10-onzas-25-unidades.png"
+    },
+    {
+      "id": 7,
+      "name": "Downy para ropa, perlas Aromatizadas 345g",
+      "category": "Limpieza y hogar",
+      "price": 90.0,
+      "description": "Downy para ropa, perlas Aromatizadas 345g",
+      "image": "imagenes_catalogo/07-downy-para-ropa-perlas-aromatizadas-345g-1.png",
+      "images": [
+        "imagenes_catalogo/07-downy-para-ropa-perlas-aromatizadas-345g-1.png",
+        "imagenes_catalogo/07-downy-para-ropa-perlas-aromatizadas-345g-2.png"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Downy para ropa, perlas Aromatizadas 694g",
+      "category": "Limpieza y hogar",
+      "price": 125.0,
+      "description": "Downy para ropa, perlas Aromatizadas 694g",
+      "image": "imagenes_catalogo/08-downy-para-ropa-perlas-aromatizadas-694g.png"
+    },
+    {
+      "id": 9,
+      "name": "Cloro CHIPER Bolsa 210 ml",
+      "category": "Limpieza y hogar",
+      "price": 2.0,
+      "description": "Cloro CHIPER Bolsa 210 ml",
+      "image": "imagenes_catalogo/09-cloro-chiper-bolsa-210-ml.png"
+    },
+    {
+      "id": 10,
+      "name": "Eponja fibra verde",
+      "category": "Limpieza y hogar",
+      "price": 1.5,
+      "description": "Eponja fibra verde",
+      "image": "imagenes_catalogo/10-eponja-fibra-verde.png"
+    },
+    {
+      "id": 11,
+      "name": "Limpiador ARM & HAMMER",
+      "category": "Limpieza y hogar",
+      "price": 17.0,
+      "description": "Limpiador ARM & HAMMER",
+      "image": "imagenes_catalogo/11-limpiador-arm-hammer.png"
+    },
+    {
+      "id": 12,
+      "name": "Toallitas Desinfectantes 85 toallitas",
+      "category": "Limpieza y hogar",
+      "price": 30.0,
+      "description": "Toallitas Desinfectantes 85 toallitas",
+      "image": "imagenes_catalogo/12-toallitas-desinfectantes-85-toallitas.png",
+      "priceOptions": [
+        {
+          "label": "Precio por unidad",
+          "value": 30.0,
+          "display": "Precio por unidad: 30"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Papel Scott 2 en 1 (suave y resistente)",
+      "category": "Limpieza y hogar",
+      "price": 6.0,
+      "description": "Papel Scott 2 en 1 (suave y resistente)",
+      "image": "imagenes_catalogo/13-papel-scott-2-en-1-suave-y-resistente.png",
+      "priceOptions": [
+        {
+          "label": "Precio por unidad",
+          "value": 6.0,
+          "display": "Precio por unidad: 6"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Lays originales 18 gramos",
+      "category": "SNACKS",
+      "price": 2.5,
+      "description": "Lays originales 18 gramos",
+      "image": "imagenes_catalogo/14-lays-originales-18-gramos.png"
+    },
+    {
+      "id": 15,
+      "name": "Cheetos Horneados 15g",
+      "category": "SNACKS",
+      "price": 1.5,
+      "description": "Cheetos Horneados 15g",
+      "image": "imagenes_catalogo/15-cheetos-horneados-15g.png"
+    },
+    {
+      "id": 16,
+      "name": "Tortix sabor limón 17 gramos",
+      "category": "SNACKS",
+      "price": 1.0,
+      "description": "Tortix sabor limón 17 gramos",
+      "image": "imagenes_catalogo/16-tortix-sabor-limon-17-gramos.png"
+    },
+    {
+      "id": 17,
+      "name": "Galletas chiky",
+      "category": "SNACKS",
+      "price": 2.5,
+      "description": "Galletas chiky",
+      "image": "imagenes_catalogo/17-galletas-chiky.png",
+      "priceOptions": [
+        {
+          "label": "Precio por unidad",
+          "value": 2.5,
+          "display": "Precio por unidad: 2.50"
+        },
+        {
+          "label": "Precio por paquete",
+          "value": 25.0,
+          "display": "Precio por paquete: 25.00"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Galletas maria",
+      "category": "SNACKS",
+      "price": 10.0,
+      "description": "Galletas maria",
+      "image": "imagenes_catalogo/18-galletas-maria.png"
+    },
+    {
+      "id": 19,
+      "name": "Galleta Salada SODA",
+      "category": "SNACKS",
+      "price": 1.5,
+      "description": "Galleta Salada SODA",
+      "image": "imagenes_catalogo/19-galleta-salada-soda.png",
+      "priceOptions": [
+        {
+          "label": "Precio por unidad",
+          "value": 1.5,
+          "display": "Precio por unidad: 1.50"
+        },
+        {
+          "label": "Precio por paquete",
+          "value": 9.5,
+          "display": "Precio por paquete: 9.50"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Bubbaloo Fresa caja de 70 unidades",
+      "category": "SNACKS",
+      "price": 1.0,
+      "description": "Bubbaloo Fresa caja de 70 unidades",
+      "image": "imagenes_catalogo/20-bubbaloo-fresa-caja-de-70-unidades.png",
+      "priceOptions": [
+        {
+          "label": "Precio por unidad",
+          "value": 1.0,
+          "display": "Precio por unidad: 1.00"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Miga de mani bolsa 450 gramos",
+      "category": "SNACKS",
+      "price": 21.0,
+      "description": "Miga de mani bolsa 450 gramos",
+      "image": "imagenes_catalogo/21-miga-de-mani-bolsa-450-gramos.png"
+    },
+    {
+      "id": 22,
+      "name": "Taqueritos",
+      "category": "SNACKS",
+      "price": 3.0,
+      "description": "Taqueritos",
+      "image": "imagenes_catalogo/22-taqueritos-1.png",
+      "priceOptions": [
+        {
+          "label": "Precio sin preparar",
+          "value": 3.0,
+          "display": "Precio sin preparar: 3.00"
+        },
+        {
+          "label": "Precio preparados",
+          "value": 5.0,
+          "display": "Precio preparados: 5.00"
+        }
+      ],
+      "images": [
+        "imagenes_catalogo/22-taqueritos-1.png",
+        "imagenes_catalogo/22-taqueritos-2.png"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Nachos",
+      "category": "SNACKS",
+      "price": 3.0,
+      "description": "Nachos",
+      "image": "imagenes_catalogo/23-nachos-1.png",
+      "priceOptions": [
+        {
+          "label": "Precio sin preparar",
+          "value": 3.0,
+          "display": "Precio sin preparar: 3.00"
+        },
+        {
+          "label": "Precio preparados",
+          "value": 5.0,
+          "display": "Precio preparados: 5.00"
+        }
+      ],
+      "images": [
+        "imagenes_catalogo/23-nachos-1.png",
+        "imagenes_catalogo/23-nachos-2.png"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Elotitos picantes",
+      "category": "SNACKS",
+      "price": 2.0,
+      "description": "Elotitos picantes",
+      "image": "imagenes_catalogo/24-elotitos-picantes-1.png",
+      "priceOptions": [
+        {
+          "label": "Precio sin preparar",
+          "value": 2.0,
+          "display": "Precio sin preparar: 2.00"
+        },
+        {
+          "label": "Precio preparados",
+          "value": 4.0,
+          "display": "Precio preparados: 4.00"
+        }
+      ],
+      "images": [
+        "imagenes_catalogo/24-elotitos-picantes-1.png",
+        "imagenes_catalogo/24-elotitos-picantes-2.png"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Palitos chinos barbacoa",
+      "category": "SNACKS",
+      "price": 2.0,
+      "description": "Palitos chinos barbacoa",
+      "image": "imagenes_catalogo/25-palitos-chinos-barbacoa-1.png",
+      "priceOptions": [
+        {
+          "label": "Precio sin preparar",
+          "value": 2.0,
+          "display": "Precio sin preparar: 2.00"
+        },
+        {
+          "label": "Precio preparados",
+          "value": 4.0,
+          "display": "Precio preparados: 4.00"
+        }
+      ],
+      "images": [
+        "imagenes_catalogo/25-palitos-chinos-barbacoa-1.png",
+        "imagenes_catalogo/25-palitos-chinos-barbacoa-2.png"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Chips Mixtos paquete de 24 unidades",
+      "category": "SNACKS",
+      "price": 4.5,
+      "description": "Chips Mixtos paquete de 24 unidades",
+      "image": "imagenes_catalogo/26-chips-mixtos-paquete-de-24-unidades.png",
+      "priceOptions": [
+        {
+          "label": "Precio por unidad",
+          "value": 4.5,
+          "display": "Precio por unidad: 4.50"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Coca Cola, Sprite, Fanta Naranja de 237 mL",
+      "category": "SNACKS",
+      "price": 25.0,
+      "description": "Coca Cola, Sprite, Fanta Naranja de 237 mL",
+      "image": "imagenes_catalogo/27-coca-cola-sprite-fanta-naranja-de-237-ml-1.png",
+      "priceOptions": [
+        {
+          "label": "Precio por paquete de 25 unidades",
+          "value": 25.0,
+          "display": "Precio por paquete de 25 unidades: 25.00"
+        }
+      ],
+      "images": [
+        "imagenes_catalogo/27-coca-cola-sprite-fanta-naranja-de-237-ml-1.png",
+        "imagenes_catalogo/27-coca-cola-sprite-fanta-naranja-de-237-ml-2.png",
+        "imagenes_catalogo/27-coca-cola-sprite-fanta-naranja-de-237-ml-3.png"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Trikos Tostada Típica 25 unidades",
+      "category": "SNACKS",
+      "price": 25.0,
+      "description": "Trikos Tostada Típica 25 unidades",
+      "image": "imagenes_catalogo/28-trikos-tostada-tipica-25-unidades.png",
+      "priceOptions": [
+        {
+          "label": "Precio por paquete",
+          "value": 25.0,
+          "display": "Precio por paquete: 25.00"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Empanizador ya está 90 gramaos caja",
+      "category": "Alimentos para la cocina",
+      "price": 7.0,
+      "description": "Empanizador ya está 90 gramaos caja",
+      "image": "imagenes_catalogo/29-empanizador-ya-esta-90-gramaos-caja.png"
+    },
+    {
+      "id": 30,
+      "name": "Frijol Nofs 400 gramos",
+      "category": "Alimentos para la cocina",
+      "price": 12.0,
+      "description": "Frijol Nofs 400 gramos",
+      "image": "imagenes_catalogo/30-frijol-nofs-400-gramos.png"
+    },
+    {
+      "id": 31,
+      "name": "Arroz molinero",
+      "category": "Alimentos para la cocina",
+      "price": 8.5,
+      "description": "Arroz molinero",
+      "image": "imagenes_catalogo/31-arroz-molinero.png"
+    },
+    {
+      "id": 32,
+      "name": "Pasta inna macarrone",
+      "category": "Alimentos para la cocina",
+      "price": 5.0,
+      "description": "Pasta inna macarrone",
+      "image": "imagenes_catalogo/32-pasta-inna-macarrone.png"
+    },
+    {
+      "id": 33,
+      "name": "pasta inna spaghetti",
+      "category": "Alimentos para la cocina",
+      "price": 6.5,
+      "description": "pasta inna spaghetti",
+      "image": "imagenes_catalogo/33-pasta-inna-spaghetti.png"
+    },
+    {
+      "id": 34,
+      "name": "Miel de abeja Tia ANNIE 340G",
+      "category": "Alimentos para la cocina",
+      "price": 12.0,
+      "description": "Miel de abeja Tia ANNIE 340G",
+      "image": "imagenes_catalogo/34-miel-de-abeja-tia-annie-340g.png"
+    },
+    {
+      "id": 35,
+      "name": "Frijol ducal negro 400g",
+      "category": "Alimentos para la cocina",
+      "price": 9.5,
+      "description": "Frijol ducal negro 400g",
+      "image": "imagenes_catalogo/35-frijol-ducal-negro-400g.png"
+    },
+    {
+      "id": 36,
+      "name": "Frijol ducal rojo 400g",
+      "category": "Alimentos para la cocina",
+      "price": 10.0,
+      "description": "Frijol ducal rojo 400g",
+      "image": "imagenes_catalogo/36-frijol-ducal-rojo-400g.png"
+    },
+    {
+      "id": 37,
+      "name": "Azucar caña real blanca 400g",
+      "category": "Alimentos para la cocina",
+      "price": 6.0,
+      "description": "Azucar caña real blanca 400g",
+      "image": "imagenes_catalogo/37-azucar-cana-real-blanca-400g.png"
+    },
+    {
+      "id": 38,
+      "name": "Azucar caña real blanca 2500g",
+      "category": "Alimentos para la cocina",
+      "price": 26.0,
+      "description": "Azucar caña real blanca 2500g",
+      "image": "imagenes_catalogo/38-azucar-cana-real-blanca-2500g.png"
+    },
+    {
+      "id": 39,
+      "name": "Azucar caña real morena 2500g",
+      "category": "Alimentos para la cocina",
+      "price": 21.0,
+      "description": "Azucar caña real morena 2500g",
+      "image": "imagenes_catalogo/39-azucar-cana-real-morena-2500g.png"
+    },
+    {
+      "id": 40,
+      "name": "Azucar caña real morena 400g",
+      "category": "Alimentos para la cocina",
+      "price": 5.5,
+      "description": "Azucar caña real morena 400g",
+      "image": "imagenes_catalogo/40-azucar-cana-real-morena-400g.png"
+    },
+    {
+      "id": 41,
+      "name": "Sal Refinada vita 400.g",
+      "category": "Alimentos para la cocina",
+      "price": 3.0,
+      "description": "Sal Refinada vita 400.g",
+      "image": "imagenes_catalogo/41-sal-refinada-vita-400-g.png"
+    },
+    {
+      "id": 42,
+      "name": "Arina para panqueque blueberry 793g",
+      "category": "Alimentos para la cocina",
+      "price": 29.0,
+      "description": "Arina para panqueque blueberry 793g",
+      "image": "imagenes_catalogo/42-arina-para-panqueque-blueberry-793g.png"
+    },
+    {
+      "id": 43,
+      "name": "Salsa Alfredo 425g",
+      "category": "Alimentos para la cocina",
+      "price": 40.0,
+      "description": "Salsa Alfredo 425g",
+      "image": "imagenes_catalogo/43-salsa-alfredo-425g.png"
+    },
+    {
+      "id": 44,
+      "name": "Mantequilla Marisol",
+      "category": "Alimentos para la cocina",
+      "price": 4.0,
+      "description": "Mantequilla Marisol",
+      "image": "imagenes_catalogo/44-mantequilla-marisol.png",
+      "priceOptions": [
+        {
+          "label": "Precio por unidad",
+          "value": 4.0,
+          "display": "Precio por unidad: 4.00"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Cefe barista instantaneo 7 g",
+      "category": "Alimentos para la cocina",
+      "price": 2.5,
+      "description": "Cefe barista instantaneo 7 g",
+      "image": "imagenes_catalogo/45-cefe-barista-instantaneo-7-g.png"
+    },
+    {
+      "id": 46,
+      "name": "Café Barista instantáneo 170",
+      "category": "Alimentos para la cocina",
+      "price": 63.0,
+      "description": "Café Barista instantáneo 170",
+      "image": "imagenes_catalogo/46-cafe-barista-instantaneo-170.png"
+    },
+    {
+      "id": 47,
+      "name": "Gelatina GOLDIN sin azúcar 12g",
+      "category": "Alimentos para la cocina",
+      "price": 5.0,
+      "description": "Gelatina GOLDIN sin azúcar 12g",
+      "image": "imagenes_catalogo/47-gelatina-goldin-sin-azucar-12g.png"
+    },
+    {
+      "id": 48,
+      "name": "Sopa Laky sabor res, pollo en bolsa - 80 g",
+      "category": "Alimentos para la cocina",
+      "price": 4.5,
+      "description": "Sopa Laky sabor res, pollo en bolsa - 80 g",
+      "image": "imagenes_catalogo/48-sopa-laky-sabor-res-pollo-en-bolsa-80-g.png"
+    },
+    {
+      "id": 49,
+      "name": "Harina Oro Maya 800g",
+      "category": "Alimentos para la cocina",
+      "price": 15.0,
+      "description": "Harina Oro Maya 800g",
+      "image": "imagenes_catalogo/49-harina-oro-maya-800g.png"
+    },
+    {
+      "id": 50,
+      "name": "Salsa de Tomate Natura Ranchera - 90 g",
+      "category": "Alimentos para la cocina",
+      "price": 5.0,
+      "description": "Salsa de Tomate Natura Ranchera - 90 g",
+      "image": "imagenes_catalogo/50-salsa-de-tomate-natura-ranchera-90-g.png"
+    },
+    {
+      "id": 51,
+      "name": "Aceite Ideal Amarillo - 445ml",
+      "category": "Alimentos para la cocina",
+      "price": 16.0,
+      "description": "Aceite Ideal Amarillo - 445ml",
+      "image": "imagenes_catalogo/51-aceite-ideal-amarillo-445ml.png"
+    },
+    {
+      "id": 52,
+      "name": "Aceite Patrona  1000ml",
+      "category": "Alimentos para la cocina",
+      "price": 23.0,
+      "description": "Aceite Patrona  1000ml",
+      "image": "imagenes_catalogo/52-aceite-patrona-1000ml.png"
+    },
+    {
+      "id": 53,
+      "name": "Frijoles colorados Toledo 425g",
+      "category": "Alimentos para la cocina",
+      "price": 21.0,
+      "description": "Frijoles colorados Toledo 425g",
+      "image": "imagenes_catalogo/53-frijoles-colorados-toledo-425g.png"
+    },
+    {
+      "id": 54,
+      "name": "Pasta ina codito mediano 200g",
+      "category": "Alimentos para la cocina",
+      "price": 6.5,
+      "description": "Pasta ina codito mediano 200g",
+      "image": "imagenes_catalogo/54-pasta-ina-codito-mediano-200g.png"
+    },
+    {
+      "id": 55,
+      "name": "Cartones de huevos extra grande",
+      "category": "Alimentos para la cocina",
+      "price": 37.0,
+      "description": "Cartones de huevos extra grande",
+      "image": "imagenes_catalogo/55-cartones-de-huevos-extra-grande.png",
+      "priceOptions": [
+        {
+          "label": "Precio cartón",
+          "value": 37.0,
+          "display": "Precio cartón: 37.00"
+        },
+        {
+          "label": "Precio medio cartón",
+          "value": 20.0,
+          "display": "Precio medio cartón: 20"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Cereal Choco Krispis 220g",
+      "category": "Alimentos para la cocina",
+      "price": 21.0,
+      "description": "Cereal Choco Krispis 220g",
+      "image": "imagenes_catalogo/56-cereal-choco-krispis-220g.png"
+    },
+    {
+      "id": 57,
+      "name": "Kétchup Kerns 375",
+      "category": "Alimentos para la cocina",
+      "price": 15.0,
+      "description": "Kétchup Kerns 375",
+      "image": "imagenes_catalogo/57-ketchup-kerns-375.png"
+    },
+    {
+      "id": 58,
+      "name": "Leche deslactosada lala",
+      "category": "Alimentos para la cocina",
+      "price": 16.0,
+      "description": "Leche deslactosada lala",
+      "image": "imagenes_catalogo/58-leche-deslactosada-lala.png"
+    },
+    {
+      "id": 59,
+      "name": "Consome de pollo Malher 454g",
+      "category": "Alimentos para la cocina",
+      "price": 20.0,
+      "description": "Consome de pollo Malher 454g",
+      "image": "imagenes_catalogo/59-consome-de-pollo-malher-454g.png"
+    },
+    {
+      "id": 60,
+      "name": "Consome de camaron Bote - 200 g",
+      "category": "Alimentos para la cocina",
+      "price": 15.0,
+      "description": "Consome de camaron Bote - 200 g",
+      "image": "imagenes_catalogo/60-consome-de-camaron-bote-200-g.png"
+    },
+    {
+      "id": 61,
+      "name": "Maíz dulce en grano 425g",
+      "category": "Alimentos para la cocina",
+      "price": 13.5,
+      "description": "Maíz dulce en grano 425g",
+      "image": "imagenes_catalogo/61-maiz-dulce-en-grano-425g.png"
+    },
+    {
+      "id": 62,
+      "name": "Panadol extra fuerte",
+      "category": "Farmacia",
+      "price": 2.5,
+      "description": "Panadol extra fuerte",
+      "image": "imagenes_catalogo/62-panadol-extra-fuerte.png"
+    },
+    {
+      "id": 63,
+      "name": "Hidravida Uva/ fresa",
+      "category": "Farmacia",
+      "price": 21.0,
+      "description": "Hidravida Uva/ fresa",
+      "image": "imagenes_catalogo/63-hidravida-uva-fresa.png"
+    },
+    {
+      "id": 64,
+      "name": "Foco LED 12w",
+      "category": "Productos varios",
+      "price": 11.0,
+      "description": "Foco LED 12w",
+      "image": "imagenes_catalogo/64-foco-led-12w.png"
+    },
+    {
+      "id": 65,
+      "name": "Plato desechable hondo sunny",
+      "category": "Productos varios",
+      "price": 10.0,
+      "description": "Plato desechable hondo sunny",
+      "image": "imagenes_catalogo/65-plato-desechable-hondo-sunny.png"
+    },
+    {
+      "id": 66,
+      "name": "Plato desechable hondo sunny",
+      "category": "Productos varios",
+      "price": 10.0,
+      "description": "Plato desechable hondo sunny",
+      "image": "imagenes_catalogo/66-plato-desechable-hondo-sunny-2.png"
+    },
+    {
+      "id": 67,
+      "name": "Jabón Pastilla Fresh Protex",
+      "category": "Productos varios",
+      "price": 5.0,
+      "description": "Jabón Pastilla Fresh Protex",
+      "image": "imagenes_catalogo/67-jabon-pastilla-fresh-protex.png"
+    },
+    {
+      "id": 68,
+      "name": "Shamppo Dove nutrición",
+      "category": "Productos varios",
+      "price": 2.0,
+      "description": "Shamppo Dove nutrición",
+      "image": "imagenes_catalogo/68-shamppo-dove-nutricion.png"
+    },
+    {
+      "id": 69,
+      "name": "Pastillas de jabon dove grande",
+      "category": "Productos varios",
+      "price": 15.0,
+      "description": "Pastillas de jabon dove grande",
+      "image": "imagenes_catalogo/69-pastillas-de-jabon-dove-grande.png"
+    }
+  ]
+}

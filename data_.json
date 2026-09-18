@@ -1,0 +1,38 @@
+{
+  "store": {
+    "name": "NOVA.",
+    "eyebrow": "Selección contemporánea",
+    "headline": "Objetos que hacen mejor lo cotidiano.",
+    "description": "Una colección breve de diseño, tecnología y bienestar, elegida por su utilidad y belleza.",
+    "currency": "GTQ",
+    "locale": "es-MX",
+    "whatsapp": "5215512345678",
+    "whatsappMessage": "Hola, me gustaría recibir información sobre sus productos."
+  },
+  "products": [
+    {"id":1,"name":"Lámpara Halo","category":"Iluminación","price":89,"description":"Luz ambiental regulable con acabado mate.","image":"https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=85","badge":"Nuevo"},
+    {"id":2,"name":"Auriculares Forma","category":"Tecnología","price":149,"description":"Sonido envolvente y comodidad para todo el día.","image":"https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85"},
+    {"id":3,"name":"Silla Nórdica","category":"Mobiliario","price":219,"description":"Curvas suaves, madera natural y asiento envolvente.","image":"https://images.unsplash.com/photo-1598300053650-a1d4cc680bdf?auto=format&fit=crop&w=900&q=85"},
+    {"id":4,"name":"Reloj Orbit","category":"Accesorios","price":129,"description":"Una esfera limpia para medir el tiempo sin ruido.","image":"https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85","badge":"Favorito"},
+    {"id":5,"name":"Mochila Arco","category":"Accesorios","price":78,"description":"Ligera, resistente y organizada para moverte mejor.","image":"https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85"},
+    {"id":6,"name":"Cafetera Ritual","category":"Cocina","price":115,"description":"Extracción precisa para mañanas más pausadas.","image":"https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?auto=format&fit=crop&w=900&q=85"},
+    {"id":7,"name":"Jarrón Nube","category":"Decoración","price":46,"description":"Cerámica orgánica modelada para cada espacio.","image":"https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=85"},
+    {"id":8,"name":"Teclado Mono","category":"Tecnología","price":98,"description":"Perfil compacto y escritura silenciosa.","image":"https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85"},
+    {"id":9,"name":"Set de Té Calma","category":"Cocina","price":64,"description":"Piezas de gres para convertir una pausa en ritual.","image":"https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=900&q=85"},
+    {"id":10,"name":"Bocina Mini","category":"Tecnología","price":85,"description":"Audio nítido en un formato que va contigo.","image":"https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=900&q=85"},
+    {"id":11,"name":"Difusor Bruma","category":"Bienestar","price":55,"description":"Aromas serenos y vapor ultrasónico silencioso.","image":"https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=900&q=85","badge":"Esencial"},
+    {"id":12,"name":"Mesa Lateral Uno","category":"Mobiliario","price":169,"description":"Una superficie ligera con presencia escultórica.","image":"https://images.unsplash.com/photo-1532372320572-cda25653a694?auto=format&fit=crop&w=900&q=85"},
+    {"id":13,"name":"Gafas Línea","category":"Accesorios","price":95,"description":"Protección UV con una silueta atemporal.","image":"https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=900&q=85"},
+    {"id":14,"name":"Maceta Terra","category":"Decoración","price":42,"description":"Textura mineral para plantas y rincones vivos.","image":"https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=900&q=85"},
+    {"id":15,"name":"Botella Térmica","category":"Bienestar","price":38,"description":"Temperatura estable y cero condensación.","image":"https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=85"},
+    {"id":16,"name":"Libreta Punto","category":"Papelería","price":22,"description":"Papel suave y apertura plana para ideas libres.","image":"https://images.unsplash.com/photo-1531346878377-a5be20888e57?auto=format&fit=crop&w=900&q=85"},
+    {"id":17,"name":"Bolígrafo Trazo","category":"Papelería","price":28,"description":"Aluminio equilibrado y tinta de flujo preciso.","image":"https://images.unsplash.com/photo-1585336261022-680e295ce3fe?auto=format&fit=crop&w=900&q=85"},
+    {"id":18,"name":"Manta Lino","category":"Hogar","price":72,"description":"Textura ligera para tardes lentas y frescas.","image":"https://images.unsplash.com/photo-1583845112203-454c2254ed29?auto=format&fit=crop&w=900&q=85"},
+    {"id":19,"name":"Bandeja Onda","category":"Decoración","price":39,"description":"Orden cotidiano con una forma inesperada.","image":"https://images.unsplash.com/photo-1616627547584-bf28cee262db?auto=format&fit=crop&w=900&q=85"},
+    {"id":20,"name":"Cojín Prisma","category":"Hogar","price":48,"description":"Volumen, textura y confort en partes iguales.","image":"https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=900&q=85"},
+    {"id":21,"name":"Espejo Arco","category":"Decoración","price":134,"description":"Reflejos amplios dentro de un marco delgado.","image":"https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=85"},
+    {"id":22,"name":"Mouse Pebble","category":"Tecnología","price":59,"description":"Control preciso con una forma cómoda y discreta.","image":"https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=85"},
+    {"id":23,"name":"Tote Lienzo","category":"Accesorios","price":32,"description":"Capacidad diaria en algodón de alto gramaje.","image":"https://images.unsplash.com/photo-1597484662317-9bd7bdda2907?auto=format&fit=crop&w=900&q=85"},
+    {"id":24,"name":"Vela Bosque","category":"Bienestar","price":34,"description":"Cedro y musgo en una cera de combustión limpia.","image":"https://images.unsplash.com/photo-1602874801006-e26b1b1a7be4?auto=format&fit=crop&w=900&q=85"}
+  ]
+}
