@@ -12,7 +12,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Cartones de huevos extra grande",
+      "name": "Cartones de huevos extra grande, Precio medio cartón: 20",
       "category": "Alimentos para la cocina",
       "price": 37.0,
       "description": "Cartones de huevos extra grande, Precio medio cartón: 20",
@@ -32,11 +32,27 @@
     },
     {
       "id": 2,
-      "name": "Servilleta CHIPER 100g",
-      "category": "Limpieza y hogar",
-      "price": 5.0,
-      "description": "Servilleta CHIPER 100g",
-      "image": "imagenes_catalogo/02-servilleta-chiper-100g.png"
+      "name": "Nachos, Precio preparados 5",
+      "category": "SNACKS",
+      "price": 3.0,
+      "description": "Nachos",
+      "image": "imagenes_catalogo/23-nachos-1.png",
+      "priceOptions": [
+        {
+          "label": "Precio sin preparar",
+          "value": 3.0,
+          "display": "Precio sin preparar: 3.00"
+        },
+        {
+          "label": "Precio preparados",
+          "value": 5.0,
+          "display": "Precio preparados: 5.00"
+        }
+      ],
+      "images": [
+        "imagenes_catalogo/23-nachos-1.png",
+        "imagenes_catalogo/23-nachos-2.png"
+      ]
     },
     {
       "id": 3,
@@ -262,30 +278,14 @@
         "imagenes_catalogo/22-taqueritos-1.png",
         "imagenes_catalogo/22-taqueritos-2.png"
       ]
-    },
+    },    
     {
       "id": 23,
-      "name": "Nachos",
-      "category": "SNACKS",
-      "price": 3.0,
-      "description": "Nachos",
-      "image": "imagenes_catalogo/23-nachos-1.png",
-      "priceOptions": [
-        {
-          "label": "Precio sin preparar",
-          "value": 3.0,
-          "display": "Precio sin preparar: 3.00"
-        },
-        {
-          "label": "Precio preparados",
-          "value": 5.0,
-          "display": "Precio preparados: 5.00"
-        }
-      ],
-      "images": [
-        "imagenes_catalogo/23-nachos-1.png",
-        "imagenes_catalogo/23-nachos-2.png"
-      ]
+      "name": "Servilleta CHIPER 100g",
+      "category": "Limpieza y hogar",
+      "price": 5.0,
+      "description": "Servilleta CHIPER 100g",
+      "image": "imagenes_catalogo/02-servilleta-chiper-100g.png"
     },
     {
       "id": 24,
